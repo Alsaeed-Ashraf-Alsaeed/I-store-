@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "26137335788",
+    "project_id": "istore-5ffbc",
+    "storage_bucket": "istore-5ffbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26137335788:android:29bddbf525f59aa008d2c9",
+        "android_client_info": {
+          "package_name": "com.example.i_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26137335788-ba5mis1h3v0rl5q00525ouf87u7el54e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAax4rdtF_zvUoYorZaqpr8PEVk0oXXZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26137335788-ba5mis1h3v0rl5q00525ouf87u7el54e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
